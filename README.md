@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Guilhermekauan-2003
-- 👀 I’m interested in works
-- 🌱 I'm currently learning programming logic
+- 👋 Hi, I’m @Guilherme
+- 👀 I am interested in jobs and knowledge
+- 🌱 I'm currently learning programming logic and the JavaScript language
 
 
 <!---
